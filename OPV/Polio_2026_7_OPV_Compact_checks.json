@@ -1,0 +1,400 @@
+{
+  "status": "PASS",
+  "slides": 61,
+  "original_text_order": "exact per-slide a:t sequence",
+  "original_picture_objects": 39,
+  "native_tables": 6,
+  "native_charts": 1,
+  "unchanged_payload_and_notes_parts": 161,
+  "original_media_parts": 34,
+  "original_workbooks": 1,
+  "hyperlink_elements_preserved": 0,
+  "relationships_checked": 452,
+  "shape_bounds_checked": 1404,
+  "normalized_named_layouts": 12,
+  "retained_content_layouts": 12,
+  "office_id_checks": {
+    "global_master_layout_ids": 42,
+    "shape_id_scopes": 165
+  },
+  "concerns": [
+    "Package checks cannot establish rendered text fit or visual overlap.",
+    "Original screenshot/news-image placeholders remain where source content was missing."
+  ],
+  "inherited_shape_id_fixes": [
+    {
+      "part": "ppt/slideLayouts/opv_slideLayout10.xml",
+      "shape": "Slide Number Placeholder 0",
+      "old_id": "25",
+      "new_id": "27"
+    }
+  ],
+  "slide_mapping": [
+    {
+      "slide": 1,
+      "layout": "Cover",
+      "dense": false,
+      "body_font_scale": 1
+    },
+    {
+      "slide": 2,
+      "layout": "Content",
+      "dense": false,
+      "body_font_scale": 1.0
+    },
+    {
+      "slide": 3,
+      "layout": "Section",
+      "dense": false,
+      "body_font_scale": 1
+    },
+    {
+      "slide": 4,
+      "layout": "Timeline",
+      "dense": false,
+      "body_font_scale": 1.0
+    },
+    {
+      "slide": 5,
+      "layout": "Image",
+      "dense": true,
+      "body_font_scale": 0.9586
+    },
+    {
+      "slide": 6,
+      "layout": "Table",
+      "dense": true,
+      "body_font_scale": 0.9571
+    },
+    {
+      "slide": 7,
+      "layout": "Content",
+      "dense": false,
+      "body_font_scale": 1.0
+    },
+    {
+      "slide": 8,
+      "layout": "Section",
+      "dense": false,
+      "body_font_scale": 1
+    },
+    {
+      "slide": 9,
+      "layout": "Image",
+      "dense": false,
+      "body_font_scale": 0.9778
+    },
+    {
+      "slide": 10,
+      "layout": "Timeline",
+      "dense": true,
+      "body_font_scale": 0.9476
+    },
+    {
+      "slide": 11,
+      "layout": "Section",
+      "dense": false,
+      "body_font_scale": 1
+    },
+    {
+      "slide": 12,
+      "layout": "Image",
+      "dense": true,
+      "body_font_scale": 0.9673
+    },
+    {
+      "slide": 13,
+      "layout": "Image",
+      "dense": true,
+      "body_font_scale": 0.9559
+    },
+    {
+      "slide": 14,
+      "layout": "Content",
+      "dense": true,
+      "body_font_scale": 0.9787
+    },
+    {
+      "slide": 15,
+      "layout": "Image",
+      "dense": false,
+      "body_font_scale": 0.9462
+    },
+    {
+      "slide": 16,
+      "layout": "Image",
+      "dense": true,
+      "body_font_scale": 0.966
+    },
+    {
+      "slide": 17,
+      "layout": "Table",
+      "dense": false,
+      "body_font_scale": 1.0
+    },
+    {
+      "slide": 18,
+      "layout": "Section",
+      "dense": false,
+      "body_font_scale": 1
+    },
+    {
+      "slide": 19,
+      "layout": "Content",
+      "dense": true,
+      "body_font_scale": 0.9307
+    },
+    {
+      "slide": 20,
+      "layout": "Image",
+      "dense": true,
+      "body_font_scale": 1
+    },
+    {
+      "slide": 21,
+      "layout": "Image",
+      "dense": true,
+      "body_font_scale": 1
+    },
+    {
+      "slide": 22,
+      "layout": "Image",
+      "dense": true,
+      "body_font_scale": 1
+    },
+    {
+      "slide": 23,
+      "layout": "Image",
+      "dense": true,
+      "body_font_scale": 1
+    },
+    {
+      "slide": 24,
+      "layout": "Image",
+      "dense": true,
+      "body_font_scale": 0.9262
+    },
+    {
+      "slide": 25,
+      "layout": "Section",
+      "dense": false,
+      "body_font_scale": 1
+    },
+    {
+      "slide": 26,
+      "layout": "Three cards",
+      "dense": true,
+      "body_font_scale": 0.967
+    },
+    {
+      "slide": 27,
+      "layout": "Comparison",
+      "dense": true,
+      "body_font_scale": 0.9953
+    },
+    {
+      "slide": 28,
+      "layout": "Image",
+      "dense": true,
+      "body_font_scale": 0.9321
+    },
+    {
+      "slide": 29,
+      "layout": "Table",
+      "dense": true,
+      "body_font_scale": 0.9631
+    },
+    {
+      "slide": 30,
+      "layout": "Chart",
+      "dense": true,
+      "body_font_scale": 0.9438
+    },
+    {
+      "slide": 31,
+      "layout": "Content",
+      "dense": false,
+      "body_font_scale": 0.9628
+    },
+    {
+      "slide": 32,
+      "layout": "Content",
+      "dense": true,
+      "body_font_scale": 0.9514
+    },
+    {
+      "slide": 33,
+      "layout": "Content",
+      "dense": true,
+      "body_font_scale": 0.9514
+    },
+    {
+      "slide": 34,
+      "layout": "Content",
+      "dense": true,
+      "body_font_scale": 0.9585
+    },
+    {
+      "slide": 35,
+      "layout": "Content",
+      "dense": true,
+      "body_font_scale": 0.8551
+    },
+    {
+      "slide": 36,
+      "layout": "Section",
+      "dense": false,
+      "body_font_scale": 1
+    },
+    {
+      "slide": 37,
+      "layout": "Image",
+      "dense": true,
+      "body_font_scale": 0.9559
+    },
+    {
+      "slide": 38,
+      "layout": "Content",
+      "dense": true,
+      "body_font_scale": 0.8647
+    },
+    {
+      "slide": 39,
+      "layout": "Three cards",
+      "dense": true,
+      "body_font_scale": 0.9344
+    },
+    {
+      "slide": 40,
+      "layout": "Content",
+      "dense": true,
+      "body_font_scale": 0.8551
+    },
+    {
+      "slide": 41,
+      "layout": "Section",
+      "dense": false,
+      "body_font_scale": 1
+    },
+    {
+      "slide": 42,
+      "layout": "Content",
+      "dense": true,
+      "body_font_scale": 0.9675
+    },
+    {
+      "slide": 43,
+      "layout": "Timeline",
+      "dense": true,
+      "body_font_scale": 0.8629
+    },
+    {
+      "slide": 44,
+      "layout": "Content",
+      "dense": true,
+      "body_font_scale": 0.9675
+    },
+    {
+      "slide": 45,
+      "layout": "Table",
+      "dense": true,
+      "body_font_scale": 0.9344
+    },
+    {
+      "slide": 46,
+      "layout": "Content",
+      "dense": true,
+      "body_font_scale": 0.9559
+    },
+    {
+      "slide": 47,
+      "layout": "Section",
+      "dense": false,
+      "body_font_scale": 1
+    },
+    {
+      "slide": 48,
+      "layout": "Image",
+      "dense": true,
+      "body_font_scale": 1
+    },
+    {
+      "slide": 49,
+      "layout": "Image",
+      "dense": true,
+      "body_font_scale": 0.9121
+    },
+    {
+      "slide": 50,
+      "layout": "Section",
+      "dense": false,
+      "body_font_scale": 1
+    },
+    {
+      "slide": 51,
+      "layout": "Comparison",
+      "dense": true,
+      "body_font_scale": 0.9559
+    },
+    {
+      "slide": 52,
+      "layout": "Content",
+      "dense": true,
+      "body_font_scale": 0.9087
+    },
+    {
+      "slide": 53,
+      "layout": "Content",
+      "dense": true,
+      "body_font_scale": 0.9576
+    },
+    {
+      "slide": 54,
+      "layout": "Summary",
+      "dense": true,
+      "body_font_scale": 0.9506
+    },
+    {
+      "slide": 55,
+      "layout": "Cover",
+      "dense": false,
+      "body_font_scale": 1
+    },
+    {
+      "slide": 56,
+      "layout": "Appendix",
+      "dense": false,
+      "body_font_scale": 0.9778
+    },
+    {
+      "slide": 57,
+      "layout": "Table",
+      "dense": true,
+      "body_font_scale": 0.9438
+    },
+    {
+      "slide": 58,
+      "layout": "Table",
+      "dense": true,
+      "body_font_scale": 0.9252
+    },
+    {
+      "slide": 59,
+      "layout": "Appendix",
+      "dense": false,
+      "body_font_scale": 1.0
+    },
+    {
+      "slide": 60,
+      "layout": "Comparison",
+      "dense": false,
+      "body_font_scale": 1.0
+    },
+    {
+      "slide": 61,
+      "layout": "References",
+      "dense": true,
+      "body_font_scale": 0.8624
+    }
+  ]
+}
